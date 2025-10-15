@@ -9,6 +9,7 @@ Anaconda - Python 3.7
 ### Step1:
 
 Import all the necessary modules for the program.
+
 ### Step2:
 
 Load a image using imread() from cv2 module.
