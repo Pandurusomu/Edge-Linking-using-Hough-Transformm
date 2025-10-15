@@ -68,6 +68,7 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
+<img width="888" height="453" alt="image" src="https://github.com/user-attachments/assets/5c5f4077-6299-4c32-86ab-e4c120873101" />
 
 
 ### Canny Edge detector output
